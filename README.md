@@ -168,7 +168,7 @@ project-a が解消 (承認して作業再開 or 完了) すると「作業中�
 ## Build
 
 ```powershell
-git clone https://github.com/konbumaru/claude-desktop-pet.git
+git clone https://github.com/nikotaronosuke/claude-desktop-pet.git
 cd claude-desktop-pet
 powershell -ExecutionPolicy Bypass -File build.ps1
 ```
